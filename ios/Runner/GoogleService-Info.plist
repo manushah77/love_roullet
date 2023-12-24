@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1032093935962-bfi145obvp12fl6rk9qm2julj20f6t6u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1032093935962-bfi145obvp12fl6rk9qm2julj20f6t6u</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1032093935962-3146l0bk96d7cdepuhipi18ganmtl569.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD2qFfBa4OS71lyPsmTxG9TiSzWIjT7R9E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1032093935962</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.loveroulette</string>
+	<key>PROJECT_ID</key>
+	<string>loveroulette-bc7de</string>
+	<key>STORAGE_BUCKET</key>
+	<string>loveroulette-bc7de.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1032093935962:ios:14e3e7711dcf1f21f3eb63</string>
+</dict>
+</plist>
